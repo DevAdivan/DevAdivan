@@ -1,4 +1,4 @@
-### Olá me chamo é Adivan !!! 👋
+### Olá me chamo  Adivan !!! 👋
 Sou um novo desenvolvedor e estou a procura de uma oportunidade,atualmente cursando ADS na faculdade Unicesumar ,estou no primeiro periodo.
 Tenho conhecimento básico em HTML,CSS E JAVASRIPT.
 
